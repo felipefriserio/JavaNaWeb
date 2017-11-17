@@ -9,7 +9,7 @@
 </head>
 <body>
 	<!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar 	 navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
         <a class="navbar-brand" href="#">
           <i>Cadastro Contato</i>
@@ -31,7 +31,7 @@
 
     <!-- Conteudo -->
     <div class="container" style="margin-top: 75px;">
-	    <form class="form-horizontal" action="cadastroContato">
+	    <form class="form-horizontal" action="cadastroContato" method="post">
 			<fieldset>
 				<!-- Text input-->
 				<div class="form-group">
